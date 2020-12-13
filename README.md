@@ -11,5 +11,5 @@ Each functionality haves a specified directory, that contains the following fold
 
 ## Functionalites given
 
-* [command-prompt.tex](https://github.com/carranz998/latex-snippets/blob/main/command-prompt.tex) -Text display according to the Windows Command Prompt style.
+* [command-prompt.tex](https://github.com/carranz998/latex-snippets/tree/main/command-prompt) -Text display according to the Windows Command Prompt style.
 * [hypertext.tex](https://github.com/carranz998/latex-snippets/blob/main/hypertext.tex) - Hypertext for any text.
